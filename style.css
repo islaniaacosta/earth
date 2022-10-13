@@ -1,0 +1,17 @@
+ 
+.Home {
+    background: url(Pollution.scaled.jpeg) no-repeat center;
+    background-size:cover;
+    height: 500px;
+    position: relative;
+     
+    }
+     
+    .header{
+       text-align:center;
+       top: 50%;
+       left: 50%;
+       color:black;
+       background-color: #f5cac2;
+    }
+    
